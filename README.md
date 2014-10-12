@@ -11,7 +11,7 @@
 
 ---
 
-__Note: There is currently a lot of heavy experimenting going on in this repository, so it is not stable. Some of the information is not updated. Once the repository contents starts to stabilize, I will try to update the information texts.__
+__Note: There is currently a lot of heavy experimenting going on in this repository, so it is not stable. Some of the information is not updated. Once the repository contents starts to stabilise, I will try to update the information texts.__
 
 
 ## What?
@@ -20,7 +20,7 @@ This repository contains my collection of [Dragonfly](http://dragonfly-modules.g
 
 ##### What is [Dragonfly](http://dragonfly-modules.googlecode.com/svn/trunk/command-modules/documentation/index.html)?
 * A speech recognition framework
-* A Python package, that can be used in conjuction with Natlink and Dragon NaturallySpeaking.
+* A Python package, that can be used in conjunction with Natlink and Dragon NaturallySpeaking.
 
 ##### So what's Natlink?
 Natlink is an extension to Dragon NaturallySpeaking to allow scripting beyond the Visual Basic Scripts that the speech recognition program normally supports.
